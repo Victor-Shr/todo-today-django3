@@ -3,7 +3,7 @@
 *.pyc
 
 static
-config
+config.py
 
 __pycache__/
 local_settings.py
