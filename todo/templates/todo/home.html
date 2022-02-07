@@ -1,0 +1,19 @@
+{% extends "todo/base.html" %}
+
+{% block content %}
+<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<div class="row justify-content-center mt-5">
+        <div class="col-md-7 text-center">
+
+            <h2>Привет<b class="purple-txt">!</b> На <b class="purple-txt"><i>сдеалть просто</i></b> легко создать список дел и их контролировать</h2>
+            <h5>Порой нам нужно много успеть. И можно забыть даже о чём- то важном. Этот сайт- <u>личные заметки</u>, он помогает не забыть и держать под контролем наши дела.</h5>
+        <a role="button" class="btn btn-primary btn-lg purple" href="{% url 'signupuser' %}">Попробовать</a>
+        </div>
+    </div>
+
+{% endblock %}

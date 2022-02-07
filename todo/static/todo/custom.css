@@ -1,0 +1,35 @@
+body {
+    background-image: url(background.png);
+    font-family: 'Play', sans-serif;
+    font-size: 1.1rem;
+}
+
+.purple {
+    background-color: #261CE6;
+}
+
+.form-color {
+    background-color: rgba(196, 145, 128, 0.4);
+}
+
+.transpar1 {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.transpar2 {
+    background-color: rgba(184, 218, 255, 0.7);
+}
+
+.btn-danger {
+    border-color: rgba(190, 6, 178);
+    background-color: rgba(190, 6, 178);
+}
+
+.reggae1 {
+    font-family: 'Reggae One', cursive;
+    font-size: 20px;
+}
+
+.purple-txt {
+    color: rgba(190, 6, 178, 1);
+}
